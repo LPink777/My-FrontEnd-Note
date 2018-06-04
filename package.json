@@ -1,22 +1,30 @@
 {
-  "name": "my-front-end",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LPink777/my-front-end.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LPink777/my-front-end/issues"
-  },
-  "homepage": "https://github.com/LPink777/my-front-end#readme",
-  "dependencies": {
-    "immediate": "^3.2.3"
-  }
+    "name": "my-front-end",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack-dev-server",
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LPink777/my-front-end.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LPink777/my-front-end/issues"
+    },
+    "homepage": "https://github.com/LPink777/my-front-end#readme",
+    "dependencies": {
+        "immediate": "^3.2.3"
+    },
+    "devDependencies": {
+        "clean-webpack-plugin": "^0.1.19",
+        "html-webpack-plugin": "^3.2.0",
+        "webpack": "^4.10.2",
+        "webpack-cli": "^3.0.1",
+        "webpack-dev-server": "^3.1.4"
+    }
 }
