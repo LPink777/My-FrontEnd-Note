@@ -12,5 +12,5 @@
 
 ```javascript
     box-sizing: content-box;    //W3C盒模型
-    box-sizing: border-box;     //IE盒模型
+    box-sizing: border-box;     //IE盒模型 
 ```
