@@ -17,8 +17,3 @@
 * [javascript响应式](https://github.com/LPink777/My-FrontEnd-Note/blob/master/js/Javascript%E5%93%8D%E5%BA%94%E5%BC%8F.md)
 * [浏览器的重绘与重排](https://github.com/LPink777/My-FrontEnd-Note/blob/master/js/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93(%E9%87%8D%E7%BB%98%E5%92%8C%E9%87%8D%E6%8E%92).md)
 
-### 补充内容
-
-我的微信公众号: 罗曼蒂克的消亡,欢迎大家订阅。
-
-![二维码](https://github.com/LPink777/Webpack4/blob/master/src/static/qrcode.jpg)
